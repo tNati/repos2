@@ -1,0 +1,7 @@
+C:\Users\tsega\source\repos2\INTERVIEW TESTING\INTERVIEW TESTING\bin\Debug\INTERVIEW TESTING.exe.config
+C:\Users\tsega\source\repos2\INTERVIEW TESTING\INTERVIEW TESTING\bin\Debug\INTERVIEW TESTING.exe
+C:\Users\tsega\source\repos2\INTERVIEW TESTING\INTERVIEW TESTING\bin\Debug\INTERVIEW TESTING.pdb
+C:\Users\tsega\source\repos2\INTERVIEW TESTING\INTERVIEW TESTING\obj\Debug\INTERVIEW TESTING.csproj.AssemblyReference.cache
+C:\Users\tsega\source\repos2\INTERVIEW TESTING\INTERVIEW TESTING\obj\Debug\INTERVIEW TESTING.csproj.CoreCompileInputs.cache
+C:\Users\tsega\source\repos2\INTERVIEW TESTING\INTERVIEW TESTING\obj\Debug\INTERVIEW TESTING.exe
+C:\Users\tsega\source\repos2\INTERVIEW TESTING\INTERVIEW TESTING\obj\Debug\INTERVIEW TESTING.pdb

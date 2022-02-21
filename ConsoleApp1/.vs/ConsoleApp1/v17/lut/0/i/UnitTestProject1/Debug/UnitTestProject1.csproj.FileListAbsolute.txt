@@ -1,0 +1,9 @@
+C:\Users\tsega\source\repos2\ConsoleApp1\.vs\ConsoleApp1\v17\lut\0\b\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\tsega\source\repos2\ConsoleApp1\.vs\ConsoleApp1\v17\lut\0\b\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\tsega\source\repos2\ConsoleApp1\.vs\ConsoleApp1\v17\lut\0\b\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\tsega\source\repos2\ConsoleApp1\.vs\ConsoleApp1\v17\lut\0\b\UnitTestProject1\bin\Debug\Microsoft.TestPlatform.AdapterUtilities.dll
+C:\Users\tsega\source\repos2\ConsoleApp1\.vs\ConsoleApp1\v17\lut\0\b\UnitTestProject1\bin\Debug\UnitTestProject1.dll
+C:\Users\tsega\source\repos2\ConsoleApp1\.vs\ConsoleApp1\v17\lut\0\i\UnitTestProject1\Debug\UnitTestProject1.csproj.CoreCompileInputs.cache
+C:\Users\tsega\source\repos2\ConsoleApp1\.vs\ConsoleApp1\v17\lut\0\i\UnitTestProject1\Debug\UnitTestProject1.csproj.CopyComplete
+C:\Users\tsega\source\repos2\ConsoleApp1\.vs\ConsoleApp1\v17\lut\0\i\UnitTestProject1\Debug\UnitTestProject1.dll
+C:\Users\tsega\source\repos2\ConsoleApp1\.vs\ConsoleApp1\v17\lut\0\i\UnitTestProject1\Debug\UnitTestProject1.csproj.AssemblyReference.cache

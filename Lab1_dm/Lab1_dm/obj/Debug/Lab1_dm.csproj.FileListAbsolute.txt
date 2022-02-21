@@ -1,0 +1,6 @@
+C:\Users\tsega\source\repos2\Lab1_dm\Lab1_dm\bin\Debug\Lab1_dm.dll
+C:\Users\tsega\source\repos2\Lab1_dm\Lab1_dm\bin\Debug\Lab1_dm.pdb
+C:\Users\tsega\source\repos2\Lab1_dm\Lab1_dm\obj\Debug\Lab1_dm.csproj.AssemblyReference.cache
+C:\Users\tsega\source\repos2\Lab1_dm\Lab1_dm\obj\Debug\Lab1_dm.csproj.CoreCompileInputs.cache
+C:\Users\tsega\source\repos2\Lab1_dm\Lab1_dm\obj\Debug\Lab1_dm.dll
+C:\Users\tsega\source\repos2\Lab1_dm\Lab1_dm\obj\Debug\Lab1_dm.pdb

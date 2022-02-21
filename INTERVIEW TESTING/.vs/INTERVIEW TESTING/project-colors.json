@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "187c8c2d-1ba6-49ff-ae43-23c8b67685c5": {
+      "ProjectGuid": "187c8c2d-1ba6-49ff-ae43-23c8b67685c5",
+      "DisplayName": "INTERVIEW TESTING",
+      "ColorIndex": 0
+    },
+    "5f121ca0-2115-4421-be0a-e92f852f7f64": {
+      "ProjectGuid": "5f121ca0-2115-4421-be0a-e92f852f7f64",
+      "DisplayName": "Test",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}
